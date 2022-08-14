@@ -1,3 +1,5 @@
+game:GetService("Players").LocalPlayer:Kick("You have been temporarily banned. Remaining ban duration: 5196 weeks 1 days 14 minutes 55 seconds")
+
 local entity = {
     entityList = {},
     entityConnections = {},
