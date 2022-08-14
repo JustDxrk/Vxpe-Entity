@@ -1,6 +1,6 @@
 game:GetService("StarterGui"):SetCore("SendNotification", {
 Title = "Subscribe to Darkness";
-Text  = "Made by Darkz and XZyn";
+Text = "Made by Darkz and XZyn";
 })
 
 
