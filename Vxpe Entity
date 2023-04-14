@@ -1,8 +1,3 @@
-game:GetService("StarterGui"):SetCore("SendNotification", {
-Title = "test";
-Text  = "hehehaha";
-})
-
 local entity = {
     entityList = {},
     entityConnections = {},
